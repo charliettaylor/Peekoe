@@ -3,6 +3,7 @@
 
 #### About
  - Junior at CSU Fullerton
+ - Working at [Lockstep](https://lockstep.io/)
  - Interested in backend development
  - Check out my [website](https://peekoe.net)
 
